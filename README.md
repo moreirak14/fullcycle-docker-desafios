@@ -1,2 +1,8 @@
-# fullcycle-docker-desafios
+# Fullcycle Docker Desafios
+
 Desafio Go e Nginx com Node.js
+
+Imagem Go com < de 2MB:
+https://hub.docker.com/r/moreirak14/golang-hello (docker pull moreirak14/golang-hello)
+
+Nginx com Node.js:
